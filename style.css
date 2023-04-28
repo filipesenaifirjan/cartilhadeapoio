@@ -1,0 +1,46 @@
+ body {
+    
+    background-image: url("/imagens/tema.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    
+
+}
+
+body.dark-mode {
+	background-color: #333; /* cor de fundo modo escuro */
+	color: #fff; /* cor do texto modo escuro */
+}
+
+
+button{
+    margin-top: 30px;
+    margin-left: 10px;
+	margin-bottom: 2%;
+	border-radius: 10%;
+    transition: all 0.2s ease-in-out;
+    
+	
+}
+
+button:hover {
+    border-color: #c78c19;
+    transform: scale(1.1);
+}
+
+  
+      
+      
+    
+   itenstabela {
+ font-size: 20px;
+ 
+ 
+   } 
+
+.cores {
+ 
+margin-top: 150px;
+margin-left: 30px;
+    
+}
